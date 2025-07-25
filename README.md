@@ -81,14 +81,6 @@ O modelo XGBoost foi utilizado para a predição dos valores futuros até dezemb
 
 ---
 
-## Contato
-
-Para dúvidas ou contribuições, entre em contato:  
-João Pedro Coelho Barbosa  
-[GitHub](https://github.com/barbosajpc)
-
----
-
 ## Licença
 
 Este projeto está disponível sob a licença MIT.
