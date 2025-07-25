@@ -3,6 +3,7 @@
 Este projeto realiza a análise e predição dos valores recolhidos pelo CFEM (Compensação Financeira pela Exploração de Recursos Minerais) no estado do Piauí, utilizando técnicas de machine learning para projeção até o ano de 2030.
 
 ---
+<img width="1188" height="590" alt="image" src="https://github.com/user-attachments/assets/a1e6c6db-2601-4dd7-aa34-61bb36819b24" />
 
 ## Descrição do Projeto
 
