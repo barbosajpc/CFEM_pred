@@ -3,8 +3,6 @@
 Este projeto realiza a análise e predição dos valores recolhidos pelo CFEM (Compensação Financeira pela Exploração de Recursos Minerais) no estado do Piauí, utilizando técnicas de machine learning para projeção até o ano de 2030.
 
 ---
-<img width="1188" height="590" alt="image" src="https://github.com/user-attachments/assets/a1e6c6db-2601-4dd7-aa34-61bb36819b24" />
-
 ## Descrição do Projeto
 
 O código realiza as seguintes etapas principais:
@@ -72,6 +70,15 @@ O melhor desempenho foi obtido pelo modelo **XGBoost Regressor**.
 ## Resultados
 
 O modelo XGBoost foi utilizado para a predição dos valores futuros até dezembro de 2030, integrando as séries históricas e projetadas em visualizações e exportações para análise.
+
+**Serão anexados os gráficos referentes às previsões, mostrando a comparação entre os valores históricos e os valores previstos ao longo do tempo, facilitando a visualização da evolução esperada do CFEM.**
+
+**Montante dos valores anuais de CFEM históricos+preditos**
+<img width="1188" height="590" alt="image" src="https://github.com/user-attachments/assets/743cc42c-c481-4ebd-bae1-05f4abfd35ca" />
+
+**Montante dos valores mensais de CFEM históricos+preditos**
+<img width="1388" height="590" alt="image" src="https://github.com/user-attachments/assets/d0a120bc-ab4b-400a-9fd0-db43a1ed4f68" />
+
 
 ---
 
