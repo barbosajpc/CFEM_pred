@@ -71,7 +71,6 @@ O melhor desempenho foi obtido pelo modelo **XGBoost Regressor**.
 
 O modelo XGBoost foi utilizado para a predição dos valores futuros até dezembro de 2030, integrando as séries históricas e projetadas em visualizações e exportações para análise.
 
-**Serão anexados os gráficos referentes às previsões, mostrando a comparação entre os valores históricos e os valores previstos ao longo do tempo, facilitando a visualização da evolução esperada do CFEM.**
 
 **Montante dos valores anuais de CFEM históricos+preditos**
 <img width="1188" height="590" alt="image" src="https://github.com/user-attachments/assets/743cc42c-c481-4ebd-bae1-05f4abfd35ca" />
