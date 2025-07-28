@@ -56,12 +56,8 @@ O código realiza as seguintes etapas principais:
 
 Os modelos foram avaliados no conjunto de teste com as seguintes métricas:
 
-| Modelo               | R²     | MAE       | MSE           | RMSE      |
-|----------------------|--------|-----------|---------------|-----------|
-| Random Forest Regressor | 0.6302 | 6370.9201 | 527,448,356.26 | 22,966.24 |
-| XGBoost Regressor      | 0.6663 | 6612.9183 | 475,999,572.47 | 21,817.41 |
-| Ridge                  | 0.3664 | 9501.2420 | 903,667,334.17 | 30,061.06 |
-| LightGBM               | 0.5828 | 7444.5273 | 595,034,712.60 | 24,393.33 |
+<img width="1484" height="484" alt="image" src="https://github.com/user-attachments/assets/580cc99c-9374-48c9-b6a0-948858ad1e4e" />
+
 
 O melhor desempenho foi obtido pelo modelo **XGBoost Regressor**.
 
@@ -73,10 +69,12 @@ O modelo XGBoost foi utilizado para a predição dos valores futuros até dezemb
 
 
 **Montante dos valores anuais de CFEM históricos+preditos**
-<img width="1188" height="590" alt="image" src="https://github.com/user-attachments/assets/743cc42c-c481-4ebd-bae1-05f4abfd35ca" />
+<img width="1181" height="584" alt="image" src="https://github.com/user-attachments/assets/ccb716c2-5432-43ed-949a-534d2fc41c17" />
+
 
 **Montante dos valores mensais de CFEM históricos+preditos**
-<img width="1388" height="590" alt="image" src="https://github.com/user-attachments/assets/d0a120bc-ab4b-400a-9fd0-db43a1ed4f68" />
+<img width="1382" height="584" alt="image" src="https://github.com/user-attachments/assets/74e7bc2a-6bab-4bc8-bd1d-b8ea7697228c" />
+
 
 
 ---
